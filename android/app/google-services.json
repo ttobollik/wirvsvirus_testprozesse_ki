@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "588263979137",
+    "firebase_url": "https://testprozesse-ki.firebaseio.com",
+    "project_id": "testprozesse-ki",
+    "storage_bucket": "testprozesse-ki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588263979137:android:f5e7b3455bd6dc8546b580",
+        "android_client_info": {
+          "package_name": "com.example.testprozesse_ki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588263979137-3tdo2049eucbf3nq2huvirar9m38ss8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ_zaRJZdVJ5-QUcrNyyNHjRul9P-bO9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588263979137-3tdo2049eucbf3nq2huvirar9m38ss8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
